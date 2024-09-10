@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently, I am working as a Back-end Developer, where I work on developing server-side applications in TypeScript and Node.js. In that I have learned to work with PostgreSQL for database management and Jest for unit testing, along with Docker for containerization. This position has helped me in building robust programming, debugging, and problem-solving skills.<br>
+Currently, I am working as a Back-end Developer, where I work on developing server-side applications in TypeScript and Node.js. In that I work with PostgreSQL for database management and Jest for unit testing, along with Docker for containerization.<br>
 
 
 # 💻 Tech Stack:
